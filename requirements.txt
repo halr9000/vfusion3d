@@ -1,0 +1,7 @@
+transformers
+imageio[ffmpeg]
+PyMCubes==0.1.4
+trimesh==4.3.2
+rembg[gpu,cli]
+kiui
+gradio_litmodel3d
